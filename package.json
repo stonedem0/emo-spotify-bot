@@ -1,0 +1,21 @@
+{
+  "name": "emo_marvin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "koa": "^2.5.1",
+    "koa-body": "^4.0.1",
+    "koa-router": "^7.4.0",
+    "spotify-web-api-node": "^3.1.1",
+    "telegraf": "^3.21.2",
+    "telegraf-command-parts": "^1.0.3"
+  }
+}
